@@ -1,1 +1,12 @@
-
+ {
+  "items": [
+    {
+      "title": "Unleashed Recompiled",
+      "game": "Sonic Unleashed (Xbox 360)",
+      "description": "A fan-made PC version of Sonic Unleashed, built by statically recompiling the Xbox 360 game. Supports Windows and Linux, higher resolutions and frame rates, ultrawide displays, and mods.",
+      "platforms": ["Windows", "Linux"],
+      "repositoryUrl": "https://github.com/hedge-dev/UnleashedRecomp",
+      "imageUrl": "https://raw.githubusercontent.com/hedge-dev/UnleashedRecompResources/refs/heads/main/images/logo/Logo.png"
+    }
+  ]
+}
